@@ -1,4 +1,4 @@
-# TIC TAC TOE ONLIUNE
+# TIC TAC TOE ONLINE
 
 
 ## Features
